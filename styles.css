@@ -78,7 +78,7 @@
   position: absolute;
   bottom: 0;
   left: 0;
-  background-color: rgb(255,64,129);
+  background-color: rgb(255,255,255);
   left: 15%;
 }
 
@@ -110,7 +110,9 @@
 
 img.article-image {
   width: 100%;
-  height: auto;
+  height: 200px;
+  object-fit: cover;
+  background-color: rgb(255,255,255);
 }
 
 .portfolio-max-width {
