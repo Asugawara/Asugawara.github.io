@@ -34,6 +34,7 @@
   height: 150px;
   width: 150px;
   margin: auto auto 10px;
+  background-color: transparent;
 }
 
 .is-compact .portfolio-logo {
