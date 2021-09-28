@@ -115,6 +115,13 @@ img.article-image {
   background-color: rgb(255,255,255);
 }
 
+img.aboutme-image {
+  width: 100%;
+  height: 450px;
+  object-fit: cover;
+  background-color: rgb(255,255,255);
+}
+
 .portfolio-max-width {
   max-width: 900px;
   margin: auto;
